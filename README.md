@@ -1,0 +1,3 @@
+La clasificación multietiqueta en NLP es un problema donde cada instancia (por ejemplo, un tweet) puede pertenecer simultáneamente a múltiples categorías (en este caso, emociones como alegría, tristeza, enojo, etc.). Este tipo de problema es común en áreas como análisis de sentimientos, etiquetado de texto, y recomendaciones.
+
+El notebook guía al usuario a través de un enfoque completo para abordar este problema, utilizando herramientas populares como TF-IDF para vectorizar texto y clasificadores multietiqueta basados en regresión logística. Se presta especial atención a la evaluación del modelo y la generación de predicciones que sean interpretables y útiles.
